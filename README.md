@@ -1,5 +1,7 @@
 # Smart Voice Summarizer
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://smartvoicesummarizer-uyvhy6sl8bqhv2tkuvf9ba.streamlit.app/)
+
 A Streamlit-based web app that transcribes audio files using **OpenAI Whisper** and generates concise summaries using **T5-small** (abstractive) and **TF-IDF with cosine similarity** (extractive) NLP models.
 
 ## Features
